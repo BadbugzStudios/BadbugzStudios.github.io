@@ -36,13 +36,16 @@ A first-person horror gameplay framework built in Unreal Engine 5, focused on mo
 
 ---
 
-### AI System Demo (UE5)
-AI system built using Behavior Trees and perception components.
+### MicroCars (UE5)
 
-**Key features:**
-- Enemy perception (sight & hearing)
-- State-based combat behavior
-- Group coordination logic
+An arcade racing prototype featuring miniature vehicles navigating stylized themed levels. The project focuses on vehicle gameplay, UI integration, and overall player experience.
+
+**Key Features:**
+- Vehicle movement system with acceleration, braking, and drifting
+- Multiple themed levels with unique art direction
+- Real-time driving HUD (speedometer and gear display)
+- Main menu and game state management
+- Arcade-focused handling and gameplay tuning
 
 ---
 
